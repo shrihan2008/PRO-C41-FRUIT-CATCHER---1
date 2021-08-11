@@ -30,6 +30,8 @@ function setup() {
   game = new Game();
   game.getState();
   game.start();
+  gameState=0
+  playerCount=0
   
 }
 
